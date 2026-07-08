@@ -1,0 +1,6 @@
+Invoice INV-2026-77.
+Supplier: LLC Example Trade.
+Customer: JSC Client.
+Payment amount total: 45500 rub.
+Bank account details and tax identifiers are listed below.
+

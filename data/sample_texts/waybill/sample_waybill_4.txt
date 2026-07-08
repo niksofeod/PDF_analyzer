@@ -1,0 +1,5 @@
+Waybill for goods shipment.
+Consignor and consignee information is provided.
+The document contains item names, quantities, package count and delivery route.
+Carrier details are specified.
+

@@ -1,0 +1,5 @@
+Contract for services.
+The contractor provides consulting services to the customer.
+The parties agree on scope, payment terms, liability and termination conditions.
+Authorized representatives sign this contract.
+

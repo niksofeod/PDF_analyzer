@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+outputs/
+data/raw/
+data/processed/
+data/external/
+models/*.pkl
+!models/document_classifier.pkl
+tmp_*.pdf
+*.log
